@@ -1,0 +1,80 @@
+# Sample Resume (Text Format)
+
+## JOHN DOE
+📧 john.doe@email.com | 📞 +1-234-567-8900 | 🔗 linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+---
+
+## PROFESSIONAL SUMMARY
+Experienced Machine Learning Engineer with 5+ years of expertise in Python, deep learning, and NLP. Proven track record of developing and deploying AI solutions in production environments. Strong background in data science, feature engineering, and model optimization.
+
+---
+
+## TECHNICAL SKILLS
+**Programming Languages:** Python, JavaScript, Java, SQL
+**Machine Learning:** TensorFlow, PyTorch, Keras, Scikit-learn
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+**Deep Learning:** Neural Networks, NLP, Computer Vision, BERT
+**Databases:** MongoDB, PostgreSQL, MySQL
+**Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins
+**Web Development:** React, Node.js, Express, REST API
+**Other:** Git, Linux, Docker, Jupyter Notebooks
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+### Senior ML Engineer | TechCorp Inc. | Jan 2022 - Present
+- Developed and deployed 5+ production-level machine learning models achieving 94% accuracy
+- Led team of 3 engineers in building NLP pipeline for text classification
+- Optimized model inference time by 40% using quantization techniques
+- Implemented CI/CD pipeline with Docker and Jenkins for ML models
+- Mentored junior engineers in best practices for ML development
+
+### Machine Learning Engineer | DataSystems | Jun 2019 - Dec 2021
+- Built recommendation system using collaborative filtering, serving 1M+ users daily
+- Implemented BERT-based sentiment analysis with 92% accuracy
+- Created automated data pipeline processing 50GB+ daily data
+- Developed REST APIs for model serving using Flask and Docker
+- Participated in A/B testing and model evaluation processes
+
+### Data Scientist | Analytics Hub | Jan 2018 - May 2019
+- Conducted exploratory data analysis on customer datasets (100K+ records)
+- Built predictive models for churn prediction (ROI: $2.5M)
+- Created automated dashboards using Tableau and Python
+- Developed SQL queries for data extraction and transformation
+- Documented findings and presented insights to stakeholders
+
+---
+
+## EDUCATION
+
+### Master of Science in Computer Science
+Stanford University | 2017
+Specialization: Machine Learning & Artificial Intelligence
+
+### Bachelor of Science in Information Technology
+University of California, Berkeley | 2015
+GPA: 3.8/4.0
+
+---
+
+## CERTIFICATIONS & AWARDS
+- Google Cloud Certified - Associate Cloud Engineer (2021)
+- AWS Certified Machine Learning Specialty (2020)
+- Deep Learning Specialization - Andrew Ng (Coursera)
+- Best Innovation Award - TechCorp Inc. (2022)
+
+---
+
+## PROJECTS & PUBLICATIONS
+- **Resume ATS Checker**: Developed ML system using BERT + NER achieving 89% accuracy in skill matching
+- **Sentiment Analysis API**: Built production NLP API processing 10K+ requests/day
+- **Published Paper**: "Efficient Transformers for Real-time NLP" - AI Journal 2021
+
+---
+
+## LANGUAGES
+- English (Native)
+- Spanish (Fluent)
+- Mandarin Chinese (Basic)
