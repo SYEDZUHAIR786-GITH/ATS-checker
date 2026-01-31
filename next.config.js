@@ -2,16 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  async rewrites() {
-    return {
-      beforeFiles: [
-        {
-          source: '/api/:path*',
-          destination: '/api/:path*'
-        }
-      ]
-    }
-  }
+  pageExtensions: ['js', 'jsx'],
 }
 
 module.exports = nextConfig
