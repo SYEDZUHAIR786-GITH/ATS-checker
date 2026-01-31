@@ -1,6 +1,6 @@
 {
   "name": "ats-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ATS Resume Checker - Full Stack Application",
   "private": true,
   "scripts": {
