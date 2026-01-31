@@ -61,3 +61,11 @@ server/uploads/*
 *.tmp
 *.temp
 .cache/
+
+# Next.js
+.next/
+out/
+.swc/
+
+# Vercel
+.vercel/
